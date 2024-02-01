@@ -17,6 +17,11 @@ public class DailyGrind {
 			{
             	break;
       		}
+			try {
+      			Thread.sleep(60000);
+ 			} catch (InterruptedException e) {
+ 	// ignore
+ )
 		}
     }
 }

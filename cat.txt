@@ -1,4 +1,7 @@
-Bob likes cats
+<<<<<<< HEAD
+Alice and bob like cats
+
+>>>>>>> f736b81388c46aace93ec9651512b1efa225a0bc
 Magic was made to serve man and never to rule over him. Thus spoke the 
 prophet Andraste as she cast down the Tevinter Imperium, ruled by mages 
 who had brought the world to the edge of ruin. 

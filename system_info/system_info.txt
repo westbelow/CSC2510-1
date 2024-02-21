@@ -1,0 +1,35 @@
+System information has been gathered. Here's the summary:
+Date and time
+02/20/24 18:37:50 PST
+User: nagito
+Current working directory:
+/home/nagito
+
+System Usage:
+top - 18:37:50 up  1:13,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks:  33 total,   1 running,  32 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   6863.1 total,   5853.5 free,    524.5 used,    485.1 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6112.5 avail Mem 
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.4G  4.0K  3.4G   1% /mnt/wsl
+none            238G   99G  140G  42% /usr/lib/wsl/drivers
+/dev/sdc       1007G  1.1G  955G   1% /
+none            3.4G   84K  3.4G   1% /mnt/wslg
+none            3.4G     0  3.4G   0% /usr/lib/wsl/lib
+rootfs          3.4G  2.1M  3.4G   1% /init
+none            3.4G  880K  3.4G   1% /run
+none            3.4G     0  3.4G   0% /run/lock
+none            3.4G     0  3.4G   0% /run/shm
+tmpfs           4.0M     0  4.0M   0% /sys/fs/cgroup
+none            3.4G   96K  3.4G   1% /mnt/wslg/versions.txt
+none            3.4G   96K  3.4G   1% /mnt/wslg/doc
+drvfs           238G   99G  140G  42% /mnt/c
+drvfs           477G  292G  186G  62% /mnt/d
+snapfuse        128K  128K     0 100% /snap/bare/5
+snapfuse         74M   74M     0 100% /snap/core22/864
+snapfuse         92M   92M     0 100% /snap/gtk-common-themes/1535
+snapfuse         41M   41M     0 100% /snap/snapd/20290
+snapfuse        132M  132M     0 100% /snap/ubuntu-desktop-installer/1276
